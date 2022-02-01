@@ -1,3 +1,6 @@
+
+/*Universal selector, selects all elements */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -61,10 +64,10 @@ a {
     text-decoration: none;
 }
 
-/* Declares the font-size for every paragraph element in the page. */
+/* Declares the font-size for every paragraph element in the page. Increased the font size from 16px to 20px */
 
 p {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 /*declares the background image, size, position, margin. Also, declares the height and width for the hero/jumbotron section.  */
