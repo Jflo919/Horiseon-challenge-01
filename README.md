@@ -6,8 +6,8 @@ The original source code for Horiseon's landing page has been updated in the fol
 * Semantic html tags have been added.
 * Comments made labeling sections of css and html code.
 * Generic title of page replaced with a more descriptive tile.
-* alt attributes added to images.
-* heading attributes appear in sequential order. 
+* Alt attributes added to images.
+* Heading attributes appear in sequential order. 
 
 ### Website Screenshot:
 
