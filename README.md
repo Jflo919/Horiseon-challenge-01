@@ -3,7 +3,7 @@
 
 ### Description:
 The original source code for Horiseon's landing page has been updated in the following ways to improve accessibilty:
-* Semantic html tags have added.
+* Semantic html tags have been added.
 * Comments made labeling sections of css and html code.
 * Generic title of page replaced with a more descriptive tile.
 * alt attributes added to images.
